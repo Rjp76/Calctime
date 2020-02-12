@@ -3,3 +3,7 @@
 ################################################################################
 
 /README.md
+/MathObjects/Subtraction.cs
+/Calctime/obj/Debug/netcoreapp3.1/Calctime.AssemblyInfo.cs
+/.gitattributes
+*.lock

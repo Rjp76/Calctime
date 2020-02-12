@@ -1,0 +1,4 @@
+C:\Users\rati1\source\repos\Calctime\Calctime\bin\Debug\netcoreapp3.1\MathObjects.dll
+C:\Users\rati1\source\repos\Calctime\Calctime\obj\Debug\netcoreapp3.1\Calctime.csprojAssemblyReference.cache
+C:\Users\rati1\source\repos\Calctime\Calctime\obj\Debug\netcoreapp3.1\Calctime.AssemblyInfoInputs.cache
+C:\Users\rati1\source\repos\Calctime\Calctime\obj\Debug\netcoreapp3.1\Calctime.AssemblyInfo.cs
